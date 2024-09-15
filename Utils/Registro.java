@@ -1,5 +1,4 @@
-package aed3;
-
+package Utils;
 
 import java.io.IOException;
 
@@ -9,3 +8,5 @@ public interface Registro {
     public byte[] toByteArray() throws IOException;
     public void fromByteArray(byte[] b) throws IOException;
 }
+
+

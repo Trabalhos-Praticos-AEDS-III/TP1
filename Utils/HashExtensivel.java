@@ -12,7 +12,7 @@ disciplina:
 Implementado pelo Prof. Marcos Kutova
 v1.1 - 2021
 */
-package aed3;
+package Utils;
 
 import java.io.ByteArrayInputStream;
 import java.io.ByteArrayOutputStream;
